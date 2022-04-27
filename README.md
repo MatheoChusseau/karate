@@ -1,10 +1,5 @@
-# Contexte
-La maison des ligues de Lorraine organise en collaboration avec les autres régions françaises le congrès ANABASE [Congrès National des Maisons des Ligues].
-Le congrès se déroule à Biarritz sur une semaine de 5 jours ouvrables. Il comporte différentes sessions d’une demi-journée chacune, consacrées à des conférences, débats sur un thème donné.
-
-Pour donner plus de souplesse à l'organisation du congrès il a été décidé que celle-ci doit être gérée grâce à une application web.
-
-# Objectifs
-Première mission : gérer l'ajout d'un entraineur
-
-Deuxième mission : gérer l'ajout d'une note par un entraineur
+# Sujet :
+La ligue De Lorraine de Karaté souhaite confier aux étudiants de BTS SIO du Lycée Suzanne Valadon la réalisation d’un projet consistant à la gestion des licences et à l’organisation des compétitions avec exploitation des résultats.
+# Objectifs :
+- Gestion des entraineurs : Cette tâche doit permettre la création, la modification et la suppression d’un membre à partir d’un formulaire. Il faudra réaliser la maquette de ce formulaire, le faire valider par le chef de projet avant de commencer le codage.
+- Consultation des licences : Cette tâche doit permettre l’affichage de la licence d’un membre donné
