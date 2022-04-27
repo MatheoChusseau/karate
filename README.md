@@ -6,4 +6,5 @@ Pour donner plus de souplesse à l'organisation du congrès il a été décidé 
 
 # Objectifs
 Première mission : gérer l'ajout d'un entraineur
+
 Deuxième mission : gérer l'ajout d'une note par un entraineur
